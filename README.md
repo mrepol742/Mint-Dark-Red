@@ -2,9 +2,10 @@
 Transprency, Modern, Darked, Red all new theme for Mint.
 
 ## Screenshots
-<img src="taskbar.png" alt="Taskbar">
 <img src="desktop.png" alt="Desktop" width="765">
 <img src="menu.png" alt="Menu" width="765">
+<img src="calendar.png" alt="Calendar" width="765">
+<img src="wifi.png" alt="Wifi" width="765">
 
 ## How to install
 - Open the /home/(username)/.themes in Files
